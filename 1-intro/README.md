@@ -165,6 +165,8 @@ To discard your working changes, use
 git restore [FILE]
 ```
 
+In older versions of git, you may have to use `git checkout [FILE]` instead.
+
 This is destructive, you won't get your changes back.
 
 This meets objective 2.
