@@ -77,7 +77,7 @@ git status
 To commit those staged files with a meaningful message or description
 
 ```shell
-git commit -m "[MESSAGE]`
+git commit -m "[MESSAGE]"
 ```
 
 To verify those changes are committed
@@ -136,7 +136,7 @@ most terminals, the colour of the file name will change from red to green.
 To commit those staged files with a meaningful message or description
 
 ```shell
-git commit -m "[MESSAGE]`
+git commit -m "[MESSAGE]"
 ```
 
 To verify those changes are committed
